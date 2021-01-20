@@ -1,3 +1,5 @@
+These scripts were downloaded from BitBucket (https://bitbucket.org/khufkens/).  They were written by Koen Hufkens.
+
 # PhenoPi
 
 Code to create a low budget (window mounted) PhenoCam using a raspberry pi camera.
