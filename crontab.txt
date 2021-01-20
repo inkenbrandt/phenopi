@@ -1,0 +1,2 @@
+@reboot /usr/local/bin/mjpg_streamer -i "/usr/local/lib/input_file.so -f /tmp -n pic.jpg" -o "/usr/local/lib/output_http.so -w /var/tmp" &
+#@reboot sudo python /home/pi/phenopi/imaging_daemon.py &
